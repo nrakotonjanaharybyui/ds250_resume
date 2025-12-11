@@ -132,9 +132,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "CV",
+    "title": "Narindra Rakotonjanahary",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Computer Science, Machine Learning"
   },
   {
     "objectID": "resume.html#currently",
@@ -146,9 +146,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "title": "Narindra Rakotonjanahary",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Science\nBrigham Young University, Rexburg, Idaho\nJuly 2025: Anticipated graduation\n\nComputer Science Major\nFocus on Machine Learning\nCSE 381 - Algorithms and Complexity\nCSE 251 - Parallelism and Concurrency\nCSE 280 - Discrete Mathematics\nCSE 450 – Machine Learning\nMATH 119 – Applied Calculus for Data Analysis\n\n\n\nWeb Frontend Certificate\nBrigham Young University Pathway (Online) July 2022\n\n\nITM 111 - Introduction to Databases\nWDD 330 - Web Frontend Development II\nCSE 340 - Web Backend Development\n\n\n\nComputer Programming Certificate\nBrigham Young University Pathway (Online) August 2021\n\n\nCSE 310 - Applied Programming\nCSE 111 - Programming with Functions\nCSE 212 - Programming with Data\nStructures"
   },
   {
     "objectID": "resume.html#awards",
@@ -363,5 +363,12 @@
     "crumbs": [
       "Full Stack"
     ]
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Narindra Rakotonjanahary",
+    "section": "Experience",
+    "text": "Experience\n\nGraphic, Web Designer\nFreelance, Antananarivo, Madagascar May 2016-Aug 2023\n\n\nUtilized advanced design software and industry best practices to produce innovative and effective designs for both digital and print platforms, for a monthly 3 to 4 clients\nEngaged in a comprehensive design process, including research, ideation, wireframing, prototyping, and final design refinement in a team of +4 members\nDemonstrated ability to drive brand recognition and increased audience engagement through effective design solutions on behalf of +25 happy clients\n\n\n\nFrench Content Writer\nProcomNet, Antananarivo, Madagascar Jan 2016-Feb 2018\n\n\nEngaged target audience over 96 French geographic departments, created engaging content, adapted to cultural nuances within tight deadlines\nConducted research, wrote compelling copy of +1,000 words daily, optimized for SEO, and proofread work\nImproved website traffic, enhanced user experience, and established strong brand reputations on +15 websites\n\n\n\nGraphic Designer\nUNFPA, Antananarivo, Madagascar Jun 2015-Apr 2016\n\n\nCommunicated complex health and family planningmessages over 6 regions in Madagascar on print and web media with visually appealing designs, met deadlines, and adapted to changes\nConducted research, brainstormed ideas, created wireframes and mockups, developed final designs, refined media products for 5 main programs\nAchieved effective communication, brand recognition, and increased engagement from 108,180 children and women received health and prenatal care"
   }
 ]

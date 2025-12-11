@@ -1,89 +1,64 @@
 ---
 layout: cv
-title: CV
+title: Narindra Rakotonjanahary
 ---
-# Narindra Rakotonjanahary
-Physicist, Mathematician, Cambridge professor.
+Computer Science, Machine Learning
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rak19008@byui.edu">rak19008@byui.edu</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+### Bachelor of Science
+__Brigham Young University, Rexburg, Idaho__ \
+`July 2025`: Anticipated graduation
 
-`1654-1660`
-__The King's School, Grantham.__
+- Computer Science Major
+- Focus on Machine Learning
+- CSE 381 - Algorithms and Complexity
+- CSE 251 - Parallelism and Concurrency
+- CSE 280 - Discrete Mathematics
+- CSE 450 – Machine Learning
+- MATH 119 – Applied Calculus for Data Analysis
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Web Frontend Certificate
+__Brigham Young University Pathway (Online)__ `July 2022` \
 
-- Sizar
+- ITM 111 - Introduction to Databases
+- WDD 330 - Web Frontend Development II
+- CSE 340 - Web Backend Development
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Computer Programming Certificate
+__Brigham Young University Pathway (Online)__ `August 2021` \
 
-- Fellow
+- CSE 310 - Applied Programming
+- CSE 111 - Programming with Functions
+- CSE 212 - Programming with Data
+- Structures
 
+## Experience
+### Graphic, Web Designer
+__Freelance, Antananarivo, Madagascar__ `May 2016-Aug 2023` \
 
+- Utilized advanced design software and industry best practices to produce innovative and effective designs for both digital and print platforms, for a monthly 3 to 4 clients
+- Engaged in a comprehensive design process, including research, ideation, wireframing, prototyping, and final design refinement in a team of +4 members
+- Demonstrated ability to drive brand recognition and increased audience engagement through effective design solutions on behalf of +25 happy clients
 
-## Awards
+### French Content Writer
+__ProcomNet, Antananarivo, Madagascar__ `Jan 2016-Feb 2018` \
 
-`2012`
-President, *Royal Society*, London, UK
+- Engaged target audience over 96 French geographic departments, created engaging content, adapted to cultural nuances within tight deadlines
+- Conducted research, wrote compelling copy of +1,000 words daily, optimized for SEO, and proofread work
+- Improved website traffic, enhanced user experience, and established strong brand reputations on +15 websites
 
-Associate, *French Academy of Science*, Paris, France
+### Graphic Designer
+__UNFPA, Antananarivo, Madagascar__ `Jun 2015-Apr 2016` \
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Communicated complex health and family planningmessages over 6 regions in Madagascar on print and web media with visually appealing designs, met deadlines, and adapted to changes
+- Conducted research, brainstormed ideas, created wireframes and mockups, developed final designs, refined media products for 5 main programs
+- Achieved effective communication, brand recognition, and increased engagement from 108,180 children and women received health and
+prenatal care
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2025 -->
