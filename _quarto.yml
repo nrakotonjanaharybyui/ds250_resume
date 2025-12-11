@@ -6,7 +6,7 @@ website:
   title: "Narindra Rakotonjanahary - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/nrakotonjanaharybyui/ds250_resume
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
@@ -14,7 +14,7 @@ website:
     left: "Narindra Rakotonjanahary 2025©"
     right: 
       - icon: linkedin
-        href: https://www.linkedin.com/in/narindra-rakotonjanahary/
+        href: "https://www.linkedin.com/in/narindra-rakotonjanahary/"
 
   navbar:
     background: primary
